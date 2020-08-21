@@ -1,0 +1,20 @@
+.left-img{
+    float: left;
+    margin: 0 5px 3px 0;
+    height: 195px;
+}
+
+.main{
+    margin-left: 300px;
+}
+
+.center-img{
+    margin-left: 200px ;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    height: 250px;
+}
+
+.banner{
+    text-align: center;
+}
