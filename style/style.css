@@ -19,18 +19,14 @@
     text-align: center;
 }
 
-.kosoy {
+.text-olbique {
     font-style: italic;
 }
 
-.zagolovok {
-    font-size: 20px;
-}
-
-.podcherknutyy {
+.text-underline {
     text-decoration: underline;
 }
 
-.zhirnyy {
+.text-bold {
     font-weight: bold;
 }
