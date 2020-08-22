@@ -1,20 +1,36 @@
-.left-img{
+.left-img {
     float: left;
     margin: 0 5px 3px 0;
     height: 195px;
 }
 
-.main{
+.main {
     margin-left: 300px;
 }
 
-.center-img{
+.center-img {
     margin-left: 200px ;
     margin-top: 12px;
     margin-bottom: 12px;
     height: 250px;
 }
 
-.banner{
+.banner {
     text-align: center;
+}
+
+.kosoy {
+    font-style: italic;
+}
+
+.zagolovok {
+    font-size: 20px;
+}
+
+.podcherknutyy {
+    text-decoration: underline;
+}
+
+.zhirnyy {
+    font-weight: bold;
 }
