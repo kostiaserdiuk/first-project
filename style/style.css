@@ -5,7 +5,7 @@
 }
 
 .main {
-    margin-left: 300px;
+    margin-left: 30%;
 }
 
 .center-img {
@@ -29,4 +29,15 @@
 
 .text-bold {
     font-weight: bold;
+}
+
+#adapt{
+    width: 100%;
+    font-family: Quicksand-Light;
+}
+
+@font-face {
+    font-family: Quicksand-Light;
+    src: url(fonts/Quicksand-Light.ttf);
+    
 }
